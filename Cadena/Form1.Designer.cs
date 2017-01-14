@@ -78,9 +78,9 @@
             this.DigiteNumeroLabel1.Location = new System.Drawing.Point(13, 23);
             this.DigiteNumeroLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.DigiteNumeroLabel1.Name = "DigiteNumeroLabel1";
-            this.DigiteNumeroLabel1.Size = new System.Drawing.Size(113, 17);
+            this.DigiteNumeroLabel1.Size = new System.Drawing.Size(120, 17);
             this.DigiteNumeroLabel1.TabIndex = 5;
-            this.DigiteNumeroLabel1.Text = "Digite el Numero";
+            this.DigiteNumeroLabel1.Text = "Digites el Numero";
             // 
             // Form1
             // 
